@@ -2,7 +2,7 @@
     "name": "fishpig/magento2-remove-downloadable",
     "description": "Remove Downloadable.",
     "type": "project",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "autoload": {
         "psr-4": {
             "Magento\\Downloadable\\": "Mock/Magento/Downloadable"
